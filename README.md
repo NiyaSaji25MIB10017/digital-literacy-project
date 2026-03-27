@@ -19,11 +19,11 @@ The aim of this task was to understand the concept of digital literacy and prese
 
 *Work Done:*
 For this task, I created a digital poster based on digital literacy. The poster includes important topics such as:
--What digital literacy is
--Useful digital tools for students
--Safe internet practices
--Professional online presence
--Email etiquette
+- What digital literacy is
+- Useful digital tools for students
+- Safe internet practices
+- Professional online presence
+- Email etiquette
 
 I designed the poster using Canva-style elements like simple layouts, icons, and soft colors to make it easy to understand and visually appealing.
 The final poster is included in the repository.
