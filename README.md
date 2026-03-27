@@ -18,7 +18,12 @@ This repository features five core tasks: a custom infographic, professional pro
 The aim of this task was to understand the concept of digital literacy and present it in a simple and creative way using a poster.
 
 *Work Done:*
-For this task, I created a digital poster based on digital literacy. The poster includes important topics such as:-What digital literacy is-Useful digital tools for students-Safe internet practices-Professional online presence-Email etiquette
+For this task, I created a digital poster based on digital literacy. The poster includes important topics such as:
+-What digital literacy is
+-Useful digital tools for students
+-Safe internet practices
+-Professional online presence
+-Email etiquette
 
 I designed the poster using Canva-style elements like simple layouts, icons, and soft colors to make it easy to understand and visually appealing.
 The final poster is included in the repository.
